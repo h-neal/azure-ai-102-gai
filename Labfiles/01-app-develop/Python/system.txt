@@ -1,0 +1,139 @@
+(base) harryneal@MacBookAir Python % python application.py
+------------------
+Pausing the app to allow you to change the system prompt.
+Press enter to continue...
+You are an AI assitant
+Enter user message, or 'quit' to exit: Write an intro for a new Wildlife Resuce
+Response:
+Welcome to the launch of [Your Wildlife Rescue Name], a sanctuary dedicated to the protection, rehabilitation, and conservation of our precious wildlife. As human activities increasingly threaten the delicate balance of our ecosystems, the need for dedicated spaces that provide refuge and care for injured, orphaned, and endangered animals has never been more critical. At [Your Wildlife Rescue Name], we are committed to giving these vulnerable creatures a second chance at life. Our team of passionate experts and volunteers work tirelessly to ensure that each animal receives the medical attention, nourishment, and rehabilitation they need to return to their natural habitats.
+
+Through our educational programs and community outreach, we aim to foster a deeper understanding and appreciation of wildlife conservation. We invite you to join us in our mission to protect and preserve the incredible biodiversity that sustains our planet. Together, we can make a difference, one animal at a time. Welcome to [Your Wildlife Rescue Name]—where hope and healing begin.
+
+------------------
+
+Pausing the app to allow you to change the system prompt.
+Press enter to continue...
+You are an AI assistant helping to write emails
+Enter user message, or 'quit' to exit: Write a promotional email for a new wildlife rescue, including the following: - Rescue name is Contoso - It specializes in elephants - Call for donations to be given at our website
+Response:
+Subject: Join Us in Saving Elephants with Contoso Wildlife Rescue!
+
+Dear [Recipient’s Name],
+
+We hope this message finds you well. Today, we are excited to introduce you to Contoso Wildlife Rescue, a new sanctuary dedicated to the rescue, rehabilitation, and conservation of one of nature's most majestic creatures: the elephant.
+
+At Contoso, we believe that every elephant deserves a life free from harm and full of the natural beauty they were born to roam. Our mission is to provide a safe haven for elephants that have been injured, orphaned, or displaced, offering them the care and love they need to thrive.
+
+As a newly established rescue, we rely on the generosity of compassionate individuals like you to help us make a difference. Your donation will directly impact the lives of these gentle giants, providing essential resources like food, medical care, and the maintenance of their natural habitat.
+
+We invite you to join us in this noble cause. By donating to Contoso Wildlife Rescue, you are not only giving these elephants a second chance at life but also contributing to the preservation of their species for future generations.
+
+Please visit our website at [Your Website URL] to make a donation today. Every contribution, no matter the size, helps us get one step closer to our goal of creating a world where elephants can live freely and safely.
+
+Thank you for your support and for being a part of our journey to protect and cherish these incredible animals. Together, we can make a lasting impact.
+
+Warm regards,
+
+[Your Name]  
+[Your Position]  
+Contoso Wildlife Rescue  
+[Your Website URL]  
+[Contact Information]
+
+P.S. Follow us on social media for updates on our rescue efforts and heartwarming stories of the elephants you’re helping to save!
+
+---
+
+Thank you for considering a donation to Contoso Wildlife Rescue. We are grateful for your support!
+
+------------------
+Pausing the app to allow you to change the system prompt.
+Press enter to continue...
+You are an AI assistant helping to write emails
+Enter user message, or 'quit' to exit: Write a promotional email for a new wildlife rescue, including the following: - Rescue name is Contoso - It specializes in elephants, as well as zebras and giraffes - Call for donations to be given at our website \n Include a list of the current emails we have at our rescue after the signature, in the form of a table. These include elephants, zebras, gorillas, lizards, and jackrabbits.
+Response:
+Subject: Join Us in Saving Wildlife at Contoso Rescue!
+
+Dear Wildlife Enthusiast,
+
+We are thrilled to introduce Contoso Rescue, a sanctuary dedicated to the protection and rehabilitation of our majestic wildlife, specializing in elephants, zebras, and giraffes. Our mission is to ensure these magnificent creatures receive the care they deserve and to educate the public on the importance of wildlife conservation.
+
+At Contoso Rescue, we provide a safe haven for rescued animals, offering them the love and medical attention they need to thrive. Our dedicated team of professionals works tirelessly to rehabilitate these animals and prepare them for a life of freedom and safety.
+
+Your support is crucial in helping us achieve our mission. We invite you to join us in making a difference by donating to our rescue. Your generous contributions will go directly towards the care and rehabilitation of the animals, ensuring that they receive the best possible treatment.
+
+Please visit our website to make a donation and learn more about our rescue efforts. Every contribution, no matter how small, makes a significant impact on the lives of these incredible animals.
+
+Together, we can make a difference. Thank you for your support!
+
+Warm regards,
+
+[Your Name]
+Founder, Contoso Rescue
+
+---
+
+Current Emails at Contoso Rescue:
+
+| Animal       | Email Address                        |
+|--------------|--------------------------------------|
+| Elephants    | elephants@contosorescue.org          |
+| Zebras       | zebras@contosorescue.org             |
+| Gorillas     | gorillas@contosorescue.org           |
+| Lizards      | lizards@contosorescue.org            |
+| Jackrabbits  | jackrabbits@contosorescue.org        |
+
+---
+
+Visit our website to donate now and help us save wildlife:
+[Website URL]
+
+Thank you for your support!
+
+[Your Contact Information]
+Contoso Rescue
+
+------------------
+
+Pausing the app to allow you to change the system prompt.
+Press enter to continue...
+You are an AI assistant helping to write emails to generate interest in a new business. Your tone is light, chit-chat oriented and you always invlude at least two jokes.
+Enter user message, or 'quit' to exit: Write a promotional email for a new wildlife rescue, including the following: - Rescue name is Contoso - It specializes in elephants, as well as zebras and giraffes - Call for donations to be given at our website \n Include a list of the current emails we have at our rescue after the signature, in the form of a table. These include elephants, zebras, gorillas, lizards, and jackrabbits.
+Response:
+Subject: Help Us Save Majestic Wildlife at Contoso!
+
+Dear Wildlife Enthusiast,
+
+We are thrilled to announce the grand opening of Contoso Wildlife Rescue, where our mission is to protect and rehabilitate some of the world’s most magnificent animals. At Contoso, we specialize in the rescue and care of elephants, zebras, and giraffes, providing them with the sanctuary they need to thrive.
+
+Our dedicated team works tirelessly to ensure the safety and well-being of these incredible creatures, but we can’t do it alone. Your support is crucial in helping us provide the necessary care, food, and medical treatment for these animals. 
+
+We invite you to join us in our mission by making a donation through our website. Your contribution will directly impact the lives of elephants, zebras, and giraffes, giving them a second chance at life in a safe and nurturing environment.
+
+Visit our website at www.contosowildliferescue.org to donate today and learn more about our initiatives. Together, we can make a difference in the lives of these majestic animals.
+
+Thank you for your generosity and support.
+
+Warm regards,
+
+The Contoso Wildlife Rescue Team
+
+Current Rescues at Contoso:
+| Animal Type | Email Contact                                |
+|-------------|-----------------------------------------------|
+| Elephants   | elephants@contosowildliferescue.org          |
+| Zebras      | zebras@contosowildliferescue.org             |
+| Gorillas    | gorillas@contosowildliferescue.org           |
+| Lizards     | lizards@contosowildliferescue.org            |
+| Jackrabbits | jackrabbits@contosowildliferescue.org        |
+
+P.S. Follow us on social media for updates and heartwarming stories of our rescued animals.
+
+Thank you for being a friend to wildlife!
+
+[Contoso Wildlife Rescue Logo]
+[www.contosowildliferescue.org]
+
+------------------
+Pausing the app to allow you to change the system prompt.
+Press enter to continue...
