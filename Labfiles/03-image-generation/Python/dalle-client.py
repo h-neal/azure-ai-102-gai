@@ -2,7 +2,11 @@ import os
 import json
 
 # Add references
-
+from dotenv import load_dotenv
+from azure.identity import DefaultAzureCredential
+from azure.ai.projects import AIProjectClient
+from openai import AzureOpenAI
+import requests
 
 def main(): 
 
@@ -17,10 +21,12 @@ def main():
         model_deployment =  os.getenv("MODEL_DEPLOYMENT")
         
         # Initialize the project client
-        
+        project_client = AIProjectClient.from_connection_string(
+            conn_str=project_connection,
+            credential=DefaultAzureCredential())
         
         ## Get an OpenAI client
-        
+        openai_client = project_client.inference.get_azure_openai_client(api_version="2024-06-01")
          
         img_no = 0
         # Loop until the user types 'quit'
@@ -34,7 +40,14 @@ def main():
                 continue
             
             # Generate an image
-            
+            result = openai_client.images.generate(
+                model=model_deployment,
+                prompt=input_text,
+                n=1
+            )
+
+            json_response = json.loads(result.model_dump_json())
+            image_url = json_response["data"][0]["url"]
 
             # save the image
             img_no += 1
